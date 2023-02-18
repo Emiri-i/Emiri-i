@@ -1,18 +1,23 @@
-### Hi there, I'm Emiri 👋
+  
+# Hi there, I'm Emiri 👋
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Emiri-i.visitor-badge&left_text=My%20Page%20Visitors)
+[![General badge](https://img.shields.io/badge/LinkedIn-5579341b0?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
 
-
+- I am a fontend developer based in France.
+- passionate about learning and development new, efficient skills.
+ 
 ## Skills / Tools
-
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,vue,html,css,git,github,firebase,figma)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiri-i&layout=compact&theme=cobalt
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiri-i&count_private=true&show_icons=true&hide=issues,contribs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
