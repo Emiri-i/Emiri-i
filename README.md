@@ -2,7 +2,6 @@
 # Hi there, I'm Emiri 👋
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Emiri-i.visitor-badge&left_text=My%20Page%20Visitors)
-[![General badge](https://img.shields.io/badge/LinkedIn-5579341b0?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
 
 
 - I am a fontend developer based in France.
