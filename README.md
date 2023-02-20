@@ -5,7 +5,7 @@
 
 
 - I am a fontend developer based in France.
-- passionate about learning and development new, efficient skills.
+- passionate about learning and development efficient skills.
  
 ## Skills / Tools
 [![My Skills](https://skillicons.dev/icons?i=react,redux,ts,vue,html,css,git,github,firebase,figma)](https://skillicons.dev)
